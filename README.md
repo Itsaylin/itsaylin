@@ -5,5 +5,8 @@
 
 ![image](https://github.com/user-attachments/assets/e11653ad-03ae-49ce-b6ab-09985ee1ca7f)
 
+![](file:///Users/aylinosorio/Downloads/_.gif)
+
+
 <br><br>Always eager to learn and grow in the tech world 🌱
 
