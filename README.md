@@ -1,7 +1,7 @@
 # Hey There!
 <br>I'm Aylin, a sophomore @ FSW.<br>
 
-<br>I design and build projects that create meaningful, real-world impact.<br>
+I design and build projects that create meaningful, real-world impact.<br>
 
 <br>My main tech stack is Javascript, html and css. My favorite tool right now is figma<br>
 
