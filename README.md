@@ -3,9 +3,9 @@
 
 I design and build projects that create meaningful, real-world impact.<br>
 
-<br>My main tech stack is Javascript, html and css. My favorite tool right now is figma<br>
+My main tech stack is Javascript, html and css. My favorite tool right now is figma<br>
 
-<br>I’m locking in and building more projects that you’ll get to see soon.<br>
+I’m locking in and building more projects that you’ll get to see soon.<br>
 
 <br>Fun Facts:<br>• I love matcha <br>• I don't like pickles <br>• I love k-dramas <br>• Hobbies: journaling, gym, building things
 
