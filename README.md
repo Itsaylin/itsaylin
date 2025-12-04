@@ -1,5 +1,6 @@
 # ✨ About me 
-<br>I'm Aylin, a student @ FSW and VP of the software engineering club.<br>
+<br>Hello, I'm Aylin<br>
+<br>I am student @ FSW and VP of the Software Engineering Club.<br>
 
 I design and build projects that create meaningful, real-world impact.<br>
 
