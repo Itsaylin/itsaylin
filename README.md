@@ -1,5 +1,5 @@
 # Hey There!
-<br>I'm Aylin, a sophomore @ FSW.<br>
+<br>I'm Aylin, a student @ FSW and VP of the software engineering club.<br>
 
 I design and build projects that create meaningful, real-world impact.<br>
 
